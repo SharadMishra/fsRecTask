@@ -2,13 +2,13 @@ Scenario
 
 ![Image description](https://github.com/SharadMishra/fsRecTask/blob/master/Screenshot%202020-05-18%20at%2019.41.46.png)
 
-Garry, Judit and Vishi are strolling in a pawn’s park. They see a chess table with three seats and their eyes light up! As if they have seen a treasure.
+Garry, Judit and Vishi are strolling at the pawn’s park. They see a chess table with three seats and their eyes light up! As if they have seen a treasure.
 
 ![Image description](https://github.com/SharadMishra/fsRecTask/blob/master/Screenshot%202020-05-18%20at%2019.41.56.png)
  
 You guessed it right, they were indeed carrying chess pieces in their bags. Without wasting any time, they jump right onto the table to settle who is the best, once for all!
 
-All being enthused, couldn’t just agree to be observer while the two players battled it out in a conventional setup. Just like always, Judit had a solution to it. All agreed on Judit’s plan for the decisive battle! Here’s what it was:
+All were enthused but couldn’t just agree to be observer while the two players battled it out in a conventional setup. Just like always, Judit had a solution to it. All agreed on Judit’s plan for the decisive battle! Here’s what it was:
 
 1.	No player was to get an alliance
 2.	All three will take turns to play one move at a time
