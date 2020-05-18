@@ -19,9 +19,15 @@ Now imagine that it was a virtual park, the three friends were ambling at. You g
  
 ![Image description](https://github.com/SharadMishra/fsRecTask/blob/master/Screenshot%202020-05-18%20at%2019.36.51.png)
 
+Following are some guidelines for the assignment:
+
 Technologies to use:
 1.	Mobile App: React Native
 2.	Server: NodeJS
 
 Key Libraries
 1.	https://chessboardjs.com/
+
+You already know how to go from hereon. Just give us a pull-request once you complete.
+
+Cheers!
